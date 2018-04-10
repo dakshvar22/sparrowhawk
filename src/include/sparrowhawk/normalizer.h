@@ -30,6 +30,8 @@
 using std::string;
 #include <vector>
 using std::vector;
+#include <set>
+using std::set;
 
 #include <fst/compat.h>
 #include <sparrowhawk/items.pb.h>
